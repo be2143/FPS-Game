@@ -1,4 +1,4 @@
-# 🔫 FPS Game
+# FPS Game
 
 This is a 3D first-person shooting game created for a workshop assignment. The game allows you to choose between two weapons: rifle or pistol, and includes engaging features like sound effects and patrolling enemies.
 
@@ -21,7 +21,7 @@ The player starts with **100 HP** and a **shield** that absorbs 50% of incoming 
 
 The game is available on: https://be2143.github.io/FPS-Game/
 
-Watch a short demo video:  
+Watch a short demo video: https://youtu.be/GQzrR3gPaSI
 
 ## ✅ Implemented Features
 
